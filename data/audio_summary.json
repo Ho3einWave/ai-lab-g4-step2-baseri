@@ -1,0 +1,35 @@
+{
+  "total_files": 14,
+  "genres": {
+    "blues": 3,
+    "classical": 2,
+    "hiphop": 5,
+    "jazz": 1,
+    "rock": 3
+  },
+  "formats": [
+    "wav"
+  ],
+  "sample_rates": [
+    22050
+  ],
+  "channels": [
+    1
+  ],
+  "bit_depths": [
+    16
+  ],
+  "duration_s": {
+    "min": 30.0,
+    "max": 30.013,
+    "total": 420.13
+  },
+  "total_size_bytes": 18528528,
+  "files_with_issues": [],
+  "expected_spec": {
+    "sample_rate": 22050,
+    "channels": 1,
+    "bit_depth": 16,
+    "duration_s": 30.0
+  }
+}
